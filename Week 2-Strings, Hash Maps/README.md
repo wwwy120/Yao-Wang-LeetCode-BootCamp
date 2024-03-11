@@ -17,7 +17,7 @@
 
 ## All LeetCode Problems for Week 2 Topics
 * Easy: 
-    * [Longest Palindrom (In-class Exercise)](/Week-2-Strings,-Hash-Maps/Practice/409.-Longest-Palindrome.py)
+    * [Longest Palindrom (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/409.%20Longest%20Palindrome.py)
     * [Ransom Note (In-class Exercise)]()
 * Medium:
     * [Find All Anagrams in a String (In-class Exercise)]()
