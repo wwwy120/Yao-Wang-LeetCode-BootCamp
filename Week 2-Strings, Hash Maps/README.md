@@ -18,11 +18,11 @@
 ## All LeetCode Problems for Week 2 Topics
 * Easy: 
     * [Longest Palindrom (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/409.%20Longest%20Palindrome.py)
-    * [Ransom Note (In-class Exercise)]()
+    * [Ransom Note (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/383.%20Ransom%20Note.py)
 * Medium:
-    * [Find All Anagrams in a String (In-class Exercise)]()
+    * [Find All Anagrams in a String (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/438.%20Find%20All%20Anagrams%20in%20a%20String.py)
     * [String to Integer atoi (Take Home Problems)]()
     * [Longest Repeating Character Replacement (Take Home Problems)]()
 * Hard:
-    * [First Missing Positive (In-class Exercise)]()
+    * [First Missing Positive (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/41.%20First%20Missing%20Positive.py)
     * [Palindrome Pairs (Take Home Problems)]()
