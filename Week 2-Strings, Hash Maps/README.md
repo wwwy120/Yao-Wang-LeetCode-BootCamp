@@ -17,12 +17,12 @@
 
 ## All LeetCode Problems for Week 2 Topics
 * Easy: 
-    * [383. Ransom Note (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/383.%20Ransom%20Note.py)
-    * [409. Longest Palindrom (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/409.%20Longest%20Palindrome.py)
+    * [383. Ransom Note (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/In-class%20Exercise/383.%20Ransom%20Note.py)
+    * [409. Longest Palindrom (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/In-class%20Exercise/409.%20Longest%20Palindrome.py)
 * Medium:
-    * [8. String to Integer atoi (Take Home Problems)]()
-    * [424. Longest Repeating Character Replacement (Take Home Problems)]()
-    * [438. Find All Anagrams in a String (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/438.%20Find%20All%20Anagrams%20in%20a%20String.py)
+    * [8. String to Integer atoi (Take Home Problems)](/Week%202-Strings,%20Hash%20Maps/Homework/8.%20String%20to%20Integer%20(atoi).py)
+    * [424. Longest Repeating Character Replacement (Take Home Problems)](/Week%202-Strings,%20Hash%20Maps/Homework/424.%20Longest Repeating%20Character%20Replacement.py)
+    * [438. Find All Anagrams in a String (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/In-class%20Exercise/438.%20Find%20All%20Anagrams%20in%20a%20String.py)
 * Hard:
-    * [41. First Missing Positive (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/Practice/41.%20First%20Missing%20Positive.py)
-    * [336. Palindrome Pairs (Take Home Problems)]()
+    * [41. First Missing Positive (In-class Exercise)](/Week%202-Strings,%20Hash%20Maps/In-class%20Exercise/41.%20First%20Missing%20Positive.py)
+    * [336. Palindrome Pairs (Take Home Problems)](/Week%202-Strings,%20Hash%20Maps/Homework/336.%20Palindrome%20Pairs.py)
