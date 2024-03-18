@@ -47,9 +47,11 @@
     * [234. Palindrome Linked List - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/234.%20Palindrome%20Linked%20List.py)
     * [876. Middle of the Linked List - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/876.%20Middle%20of%20the%20Linked%20List.py)
 * Medium:
+    * [24. Swap Nodes in Pairs - Practice](/Week%203-Matrix,%20Linked%20List/Practice/24.%20Swap%20Nodes%20in%20Pairs.py)
     * [36. Valid Sudoku - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/36.%20Valid%20Sudoku.py)
     * [48. Rotate Image - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/48.%20Rotate%20Image.py)
     * [73. Set Matrix Zeroes - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/73.%20Set%20Matrix%20Zeros.py)
     * [143. Reorder List - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/143.%20Reorder%20List.py)
+    * [1721. Swapping Nodes in a Linked List - Practice](/Week%203-Matrix,%20Linked%20List/Practice/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)
 * Hard:
     * [25. Reverse Nodes in k-Group - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/25.%20Reverse%20Nodes%20in%20k-Group.py)
