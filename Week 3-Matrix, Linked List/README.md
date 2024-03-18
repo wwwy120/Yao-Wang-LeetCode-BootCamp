@@ -49,7 +49,7 @@
 * Medium:
     * [36. Valid Sudoku - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/36.%20Valid%20Sudoku.py)
     * [48. Rotate Image - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/48.%20Rotate%20Image.py)
-    * [73. Set Matrix Zeroes - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/73.%20Set%20Matrix%20Zeroes.py)
+    * [73. Set Matrix Zeroes - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/73.%20Set%20Matrix%20Zeros.py)
     * [143. Reorder List - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/143.%20Reorder%20List.py)
 * Hard:
     * [25. Reverse Nodes in k-Group - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/25.%20Reverse%20Nodes%20in%20k-Group.py)
