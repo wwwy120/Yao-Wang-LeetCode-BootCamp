@@ -44,12 +44,12 @@
 
 ## All LeetCode Problems for Week 3 Topics
 * Easy: 
-    * [234. Palindrome Linked List - In-class Exercise](Week%203-Matrix,%20Linked%20List/In-class%20Exercise/234.%20Palindrome%20Linked%20List)
-    * [876. Middle of the Linked List - Take Home Problems](Week%203-Matrix,%20Linked%20List/Homework/876.%20Middle%20of%20the%20Linked%20List)
+    * [234. Palindrome Linked List - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/234.%20Palindrome%20Linked%20List)
+    * [876. Middle of the Linked List - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/876.%20Middle%20of%20the%20Linked%20List)
 * Medium:
-    * [36. Valid Sudoku - Take Home Problems](Week%203-Matrix,%20Linked%20List/Homework/36.%20Valid%20Sudoku)
-    * [48. Rotate Image - In-class Exercise)[Week%203-Matrix,%20Linked%20List/In-class%20Exercise/48.%20Rotate%20Image)
-    * [73. Set Matrix Zeroes - In-class Exercise](Week%203-Matrix,%20Linked%20List/In-class%20Exercise/73.%20Set%20Matrix%20Zeroes)
-    * [143. Reorder List - In-class Exercise](Week%203-Matrix,%20Linked%20List/In-class%20Exercise/143.%20Reorder%20List)
+    * [36. Valid Sudoku - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/36.%20Valid%20Sudoku)
+    * [48. Rotate Image - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/48.%20Rotate%20Image)
+    * [73. Set Matrix Zeroes - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/73.%20Set%20Matrix%20Zeroes)
+    * [143. Reorder List - In-class Exercise](/Week%203-Matrix,%20Linked%20List/In-class%20Exercise/143.%20Reorder%20List)
 * Hard:
-    * [25. Reverse Nodes in k-Group - Take Home Problems])Week%203-Matrix,%20Linked%20List/Homework/25.%20Reverse%20Nodes%20in%20k-Group)
+    * [25. Reverse Nodes in k-Group - Take Home Problems](/Week%203-Matrix,%20Linked%20List/Homework/25.%20Reverse%20Nodes%20in%20k-Group)
